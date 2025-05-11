@@ -1,2 +1,3 @@
 # project1-trial
-first repository fir tutorial purpose
+first repository for tutorial purpose
+AUTHOR-ABHYUDAYA INGLE
